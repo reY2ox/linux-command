@@ -42,7 +42,7 @@ clock # 获取当前的时间
 显示UTC时间
 
 ```shell
-clock -utc #显示UTC时间
+clock --utc #显示UTC时间
 ```
 
 
